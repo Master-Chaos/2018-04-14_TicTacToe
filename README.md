@@ -5,3 +5,4 @@ Tic-tac-toe (also known as noughts and crosses or Xs and Os) is a game for two p
 
 see also: https://en.wikipedia.org/wiki/Tic-tac-toe 
  
+Program: CLion
